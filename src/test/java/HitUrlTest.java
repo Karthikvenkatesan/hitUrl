@@ -59,7 +59,7 @@ public class HitUrlTest
 	
 	public String getExpected()
     {
-		return "160";
+		return "158";
     }
 	
 	public String getActual(String strJsonObj)
